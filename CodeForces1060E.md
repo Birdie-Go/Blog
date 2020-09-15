@@ -1,4 +1,4 @@
-# CodeForces1060E
+# CodeForces1060E Sergey and Subway
 
 ## 题目大意
 给一棵树，若两个点有公共节点，则这两个点连边，求所有点对的距离和。
